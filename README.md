@@ -1,6 +1,6 @@
 # First Assignment
 Blake Moran
 
-Valorant
-VR Chat
-Minecraft
+- Valorant
+- VR Chat
+- Minecraft
